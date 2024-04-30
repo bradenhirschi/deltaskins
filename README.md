@@ -1,6 +1,6 @@
 # Classic Retro NDS Deltaskins
 
-These are two deltaskins for Nintendo DS. "classicRetro.deltaskin" is a standard skin with both the top and bottom screens, but "classicRetroBottomScreen.deltaskin" has had the top screen removed. This is ideal for those who want to airplay the top screen or who want to play games that only require the bottom screen (such as Tetris DS) and would like to keep the extra screen space.
+These are two deltaskins for Nintendo DS. "classicRetro.deltaskin" is a standard skin with both the top and bottom screens, but "classicRetroBottomScreen.deltaskin" has had the top screen removed. This is ideal for those who want to airplay the top screen or who want to play games that only require the bottom screen (such as Tetris DS) and would like to keep the extra screen space. I also added "classicRetroTopScreen.deltaskin", which has had the bottom screen removed for games that only require the top one.
 
 ![1](https://github.com/bradenhirschi/deltaskins/assets/25806150/a7177eb9-79c1-4585-a690-dc2334ae61e9)
 
